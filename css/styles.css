@@ -1,1 +1,31 @@
+body {background-color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+}
+h1{
+    
+    font-size: 20pt;
+}
+p{
+    color: rgb(185, 233, 138);
+    font-size: 12pt;
+}
+.elementti-1{
+    color: white;
+    border-style: dotted;
+    border-width: 2pt;
+    height: 100px; width: 100px;
+    text-align: center;
+    font-size: 30pt;
+    
 
+}
+
+ol{
+    color: white;
+    list-style-type: lower-alpha;
+}
+ul{
+    color: white;
+    list-style-type: square;
+}
