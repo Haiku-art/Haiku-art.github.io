@@ -37,7 +37,7 @@ body{
     height: max-content;  
     padding-top: 0px; 
     padding-left: 0px;
-    color: #448490;
+    color:  #9b9b9b;
 }
 .Jboxtext{
     background-color: #212121;
@@ -45,7 +45,7 @@ body{
     opacity: 60%;
     border-radius: 0px;
     padding: 10px;
-    width: max-content;
+    width: auto;
     text-align: left;
     font-size: 14px;
     
@@ -59,6 +59,9 @@ h1{
     padding-bottom: 5px !important;
     margin: 0px;
     background-color:transparent;    
+}
+.navbar-brand img {
+    width: 150px;
 }
 .section{
     border: 0.5px solid black !important; 
