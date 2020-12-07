@@ -64,7 +64,7 @@ h1{
     width: 150px;
 }
 .section{
-    border: 0.5px solid black !important; 
+    border: 0px solid black !important; 
     height: max-content;
     width: auto;
     padding: 20px;
@@ -114,9 +114,9 @@ a :active {
 }
 .tuotekuvat{
     
-    padding: 0px;
+    padding: 15px;
     text-align: center;
-    margin-top: 40px;
+    margin: 15px;
     
 }
 .centered {
@@ -127,14 +127,15 @@ a :active {
   }
 
 span {
-    background-color: #448490;
-    padding: 5px;
-    color: white;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    color: black;
+    opacity: 85%;
     border-radius: 2px;
 }
 .tuotekuvat:hover {
     transition-delay: 0ms;
-    opacity: 0.5;
+    opacity: 0.8;
     
 }
 .esikatselukuva{
@@ -157,7 +158,7 @@ footer{
     max-width: 100%;
     height: max-content;
     background-color: #212121;
-    padding-left: 70px;
+    padding-left: 40px;
     margin-top: 40px;
 }
 .footercontent{
